@@ -6,3 +6,13 @@ How is the staging area different from the working directory and the repository?
  What value do you think it offers?
  It's something in between of working directory and repository. It provides something
  flexibility as to what files in the working directory you want to commit.
+ 
+ How can you use the staging area to make sure you have one commit per logical change?
+ Only move files changed for one logical change to the staging area, commit, then move
+ the next logical change to the staging area.
+ 
+ What are some situations when branches would be helpful in keeping your history 
+ organized? How would branches help?
+ Add new feature and still keep the master branch stable.
+ 
+ How do the diagrams help you visualize the branch structure?
